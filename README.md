@@ -1,6 +1,7 @@
 # Victor's dmenu
 
 Forked from Luke Smith's dmenu
+
 Extra stuff added to vanilla dmenu:
 
 - reads Xresources
