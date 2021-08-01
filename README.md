@@ -9,4 +9,4 @@ Extra stuff added to vanilla dmenu:
 - can view color characters like emoji (libxft-bgra is required for this reason)
 - `-P` for password mode: hide user input
 - `-r` to reject non-matching input
-- -c for centered dmenu
+- `-c` for centered dmenu
